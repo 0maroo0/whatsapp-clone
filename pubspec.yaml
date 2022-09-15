@@ -40,6 +40,8 @@ dependencies:
   get: ^4.6.5
   image_picker: ^0.8.5+3
   advstory: ^0.2.1
+  firebase_core: ^1.22.0
+  firebase_storage: ^10.3.8
 
 dev_dependencies:
   flutter_test:
